@@ -26,6 +26,7 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "lazysizes": "^5.3.2"
+    "lazysizes": "^5.3.2",
+    "modern-normalize": "^1.0.0"
   }
 }

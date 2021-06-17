@@ -2,6 +2,7 @@ import './sass/main.scss';
 import galleryItems from './gallery-items.js';
 import { createGalleryArr } from './js/createGalleryArr';
 import lazysizes from 'lazysizes';
+import 'modern-normalize/modern-normalize.css';
 
 const refs = {
   gallery: document.querySelector('ul.js-gallery'),
